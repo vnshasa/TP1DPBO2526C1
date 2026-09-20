@@ -140,12 +140,8 @@ Pencarian dilakukan berdasarkan ID.
 <img width="1796" height="245" alt="Cuplikan layar 2026-09-20 215744" src="https://github.com/user-attachments/assets/d2108fd6-8572-4f12-a64e-3caf6e2dc253" />
 (hasilnya)
 <img width="1807" height="178" alt="Cuplikan layar 2026-09-20 215806" src="https://github.com/user-attachments/assets/774e3a02-61a3-46bf-8f1e-46796df7c030" />
-(Menekan tombol reset)
+- **Reset Seluruh Data:** 
+(Menekan tombol merah untuk menghapus seluruh *session* data)
 <img width="1816" height="235" alt="Cuplikan layar 2026-09-20 215855" src="https://github.com/user-attachments/assets/a1a5ebf9-9fdf-4934-a7dd-63e35d7c3003" />
 (hasilnya)
 <img width="1807" height="170" alt="Cuplikan layar 2026-09-20 215913" src="https://github.com/user-attachments/assets/d56dbcba-edb0-4c21-95a6-a9cf84a76b6c" />
-
-(Menekan tombol hapus pada baris tabel tertentu)
-
-- **Reset Seluruh Data:** 
-(Menekan tombol merah untuk menghapus seluruh *session* data)
