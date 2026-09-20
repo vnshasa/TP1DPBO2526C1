@@ -42,7 +42,7 @@ Berikut adalah bukti bahwa program berhasil mengeksekusi operasi CRUD dan pencar
 <img width="547" height="366" alt="Cuplikan layar 2026-09-20 150728" src="https://github.com/user-attachments/assets/a2f36cd1-485e-4db7-bacd-7a09186a9821" />
 
 #### 5. Menghapus dan Mencari Data yang Telah Dihapus
-<img width="547" height="366" alt="Cuplikan layar 2026-09-20 150728 - Salin" src="https://github.com/user-attachments/assets/9a80ecf2-6e0f-460b-9cc0-048f77d9afdb" />
+<img width="367" height="471" alt="Cuplikan layar 2026-09-20 150747" src="https://github.com/user-attachments/assets/082a331f-caed-4c71-b6ad-6f2cadec2003" />
 
 
 ---
@@ -91,39 +91,61 @@ Berikut adalah bukti bahwa program berhasil mengeksekusi operasi CRUD dan pencar
 
 #### Uji Coba Error Handling
 - **Peringatan durasi negatif:**
+<img width="1828" height="940" alt="Cuplikan layar 2026-09-20 212800" src="https://github.com/user-attachments/assets/047327ec-eabe-4e00-b7a1-2fa05fec6fda" />
 
 - **Peringatan durasi berupa teks/non-numeric:**
+<img width="1807" height="916" alt="Cuplikan layar 2026-09-20 212826" src="https://github.com/user-attachments/assets/1a06f6e1-71cf-408d-a0f4-e884c8de4882" />
 
 - **Peringatan duplikasi ID (saat Update):**
+<img width="1817" height="883" alt="Cuplikan layar 2026-09-20 213239" src="https://github.com/user-attachments/assets/a59d542f-e2df-4421-82a5-a2a7d372b4eb" />
 
 - **Peringatan duplikasi ID (saat Tambah Data):**
+<img width="1817" height="907" alt="Cuplikan layar 2026-09-20 212957" src="https://github.com/user-attachments/assets/b5b254dc-dd72-4214-a34b-e285934489e9" />
 
 
 #### 1. Menambah Data & Bukti Folder
 - **Proses Tambah:**
+<img width="1831" height="760" alt="Cuplikan layar 2026-09-20 212903" src="https://github.com/user-attachments/assets/4c0760e4-7331-4653-8749-437ca85360da" />
+<img width="1817" height="813" alt="Cuplikan layar 2026-09-20 213102" src="https://github.com/user-attachments/assets/c0349ef1-fbc0-45d2-a1e5-7dc0ff492c84" />
 
 **Output Tabel:**
+<img width="1808" height="167" alt="Cuplikan layar 2026-09-20 212921" src="https://github.com/user-attachments/assets/cb49fa25-001e-4985-aad4-b012cbea0867" />
+<img width="1821" height="266" alt="Cuplikan layar 2026-09-20 213122" src="https://github.com/user-attachments/assets/d7206bde-3153-4cd3-b538-c4efe85f0137" />
 
 - **Bukti Letak Folder Gambar (VSCode):**
+<img width="248" height="162" alt="Cuplikan layar 2026-09-20 213927" src="https://github.com/user-attachments/assets/ed8e22df-239f-4983-a0a3-bdd7b820c501" />
 
 
 #### 2. Menampilkan Seluruh Data
+<img width="1800" height="227" alt="Cuplikan layar 2026-09-20 214258" src="https://github.com/user-attachments/assets/0d3b47d4-b7a9-44c0-a55e-2dbd8f1cadef" />
 
 
 #### 3. Memperbarui Data
 (Kolom form yang dibiarkan kosong tidak akan menimpa data yang sudah ada).
+<img width="1801" height="870" alt="Cuplikan layar 2026-09-20 215304" src="https://github.com/user-attachments/assets/a66b47bd-a956-4ad7-8a77-654612918b22" />
 
 **Output Tabel:**
+<img width="1803" height="230" alt="Cuplikan layar 2026-09-20 215324" src="https://github.com/user-attachments/assets/19ea040b-dc48-464a-a61f-0b4dcba92d7b" />
 
 
 #### 4. Mencari Data Spesifik
 Pencarian dilakukan berdasarkan ID.
+<img width="1828" height="256" alt="Cuplikan layar 2026-09-20 215424" src="https://github.com/user-attachments/assets/fc27c46a-22d4-439c-9dcf-29755c2221cd" />
 **Tampilan hasil pencarian:**
-
+<img width="1783" height="175" alt="Cuplikan layar 2026-09-20 215449" src="https://github.com/user-attachments/assets/5aa4f091-b0a8-4122-8d04-bf802b37e944" />
 *(Untuk kembali melihat semua tabel, user dapat menekan tombol "Tampilkan Semua")*
 
 #### 5. Menghapus & Mereset Data
-- **Hapus Data Satuan:** 
+- **Hapus Data Satuan:**
+(Menekan tombol hapus pada baris tabel tertentu)
+<img width="1796" height="245" alt="Cuplikan layar 2026-09-20 215744" src="https://github.com/user-attachments/assets/d2108fd6-8572-4f12-a64e-3caf6e2dc253" />
+(hasilnya)
+<img width="1807" height="178" alt="Cuplikan layar 2026-09-20 215806" src="https://github.com/user-attachments/assets/774e3a02-61a3-46bf-8f1e-46796df7c030" />
+(Menekan tombol reset)
+<img width="1816" height="235" alt="Cuplikan layar 2026-09-20 215855" src="https://github.com/user-attachments/assets/a1a5ebf9-9fdf-4934-a7dd-63e35d7c3003" />
+(hasilnya)
+<img width="1807" height="170" alt="Cuplikan layar 2026-09-20 215913" src="https://github.com/user-attachments/assets/d56dbcba-edb0-4c21-95a6-a9cf84a76b6c" />
+
 (Menekan tombol hapus pada baris tabel tertentu)
 
 - **Reset Seluruh Data:** 
