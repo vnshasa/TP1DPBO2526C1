@@ -109,7 +109,6 @@ Berikut adalah bukti bahwa program berhasil mengeksekusi operasi CRUD dan pencar
 <img width="1817" height="813" alt="Cuplikan layar 2026-09-20 213102" src="https://github.com/user-attachments/assets/c0349ef1-fbc0-45d2-a1e5-7dc0ff492c84" />
 
 **Output Tabel:**
-<img width="1808" height="167" alt="Cuplikan layar 2026-09-20 212921" src="https://github.com/user-attachments/assets/cb49fa25-001e-4985-aad4-b012cbea0867" />
 <img width="1821" height="266" alt="Cuplikan layar 2026-09-20 213122" src="https://github.com/user-attachments/assets/d7206bde-3153-4cd3-b538-c4efe85f0137" />
 
 - **Bukti Letak Folder Gambar (VSCode):**
