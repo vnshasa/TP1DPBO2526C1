@@ -82,7 +82,7 @@ Berikut adalah bukti bahwa program berhasil mengeksekusi operasi CRUD dan pencar
 <img width="525" height="372" alt="Cuplikan layar 2026-09-20 162713" src="https://github.com/user-attachments/assets/bab82c5c-e4f7-4257-8170-8af226f3d00e" />
 
 #### 5. Menghapus Data
-<img width="525" height="372" alt="Cuplikan layar 2026-09-20 162713" src="https://github.com/user-attachments/assets/cb8449a4-5fae-4f02-9436-f84692cfbfe3" />
+<img width="546" height="562" alt="Cuplikan layar 2026-09-20 162732" src="https://github.com/user-attachments/assets/e0cc85d8-ee5e-4abe-87ab-9e21f2041840" />
 
 
 ---
