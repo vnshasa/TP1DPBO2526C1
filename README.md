@@ -12,7 +12,7 @@ Saya Vanisha Septiani Auliaputri dengan NIM 2510735 mengerjakan Tugas Praktikum 
 ## ⚠️ PENANGANAN ERROR
 Program ini dilengkapi dengan validasi input untuk mencegah *error*:
 
-1. Sistem akan menolak **durasi diisi dengan teks/huruf atau angka minus**. 
+1. Sistem akan menolak jika **durasi diisi dengan teks/huruf atau angka minus**. 
 *(Contoh peringatan di program Java)*:
 <img width="542" height="295" alt="Cuplikan layar 2026-09-20 143759" src="https://github.com/user-attachments/assets/ae3a5a18-63c3-4254-818a-7a35361cdd8f" />
 
